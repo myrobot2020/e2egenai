@@ -1,0 +1,11 @@
+numpy
+pdfplumber
+psycopg2-binary
+sentence-transformers
+scikit-learn
+openai
+sqlite-utils
+python-dotenv
+langchain
+langchain-community
+pgvector
